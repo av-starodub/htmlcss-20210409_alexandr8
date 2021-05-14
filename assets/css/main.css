@@ -1,3 +1,5 @@
+/* Resets */
+@import '../resets/_reset.css';
 @import '../resets/_normalize.css';
 
 @import '../fonts/fonts.css';
